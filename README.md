@@ -5,7 +5,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
 
 
@@ -32,8 +31,56 @@ This project is a **Fitness Website** built using Node.js, Express.js, MongoDB, 
   - [Bootstrap](https://getbootstrap.com/) (if used for styling).
 
 ## Setup Instructions
-1. Clone the repository:
+- Clone the repository:
    ```bash
-   git clone https://github.com/Pratham-ghadge/Fitness-Website.git
+  git clone https://github.com/Pratham-ghadge/Fitness-Website.git
    ```
+
+
+ - Navigate to the project directory:   
+ ```bash
+ cd Fitness-Website
+ ```
+ Install dependencies:
+ 
+ ```bash
+ npm install
+ ```
+ 
+ Set up environment variables:
+ - In the server folder, create a .env file and add your MongoDB Atlas URI and other necessary environment variables.
+
+ Run the application:
+
+```bash
+ npm start
+ ```
+
+## screenshots
+- HOME 
+![image](https://github.com/user-attachments/assets/60774a02-99a9-4e6f-9ac2-b0171c3d1395)
+- PROGRAMS
+![image](https://github.com/user-attachments/assets/f0a866fb-e983-4bfc-8903-87593394ffe9)
+- CHOOSE US
+![image](https://github.com/user-attachments/assets/779d0c1b-e906-4e8c-a515-663ae69482fd)
+- ABOUT US
+![image](https://github.com/user-attachments/assets/1b13140d-2c3f-4e9c-a890-64d2b87f2635)
+- PLANS
+![image](https://github.com/user-attachments/assets/3f32bdc9-2437-4e9f-b1f8-8b7843cc9ccb)
+- REVIEW
+![image](https://github.com/user-attachments/assets/c3885cc9-72fa-44fa-be3e-f2428390aa5c)
+- BMI CALCULATOR
+![image](https://github.com/user-attachments/assets/6baad574-bd73-4049-8993-984f47d9d524)
+- FOOTER
+![image](https://github.com/user-attachments/assets/3e707b47-b1af-4a84-87d5-cbdd0839463e)
+
+
+
+
+
+
+
+
+ 
+ 
 
