@@ -7,12 +7,9 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 This project is a **Fitness Website** built using Node.js, Express.js, MongoDB, and EJS. It provides users with information about various fitness programs, allows them to purchase plans, view testimonials, calculate BMI, and access both user and admin dashboards.
@@ -40,3 +37,5 @@ This project is a **Fitness Website** built using Node.js, Express.js, MongoDB, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/fitness-website.git
+   ```
+
