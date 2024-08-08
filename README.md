@@ -1,7 +1,5 @@
 # Fitness Website
 
-![Project Banner](path_to_your_banner_image)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -36,6 +34,6 @@ This project is a **Fitness Website** built using Node.js, Express.js, MongoDB, 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fitness-website.git
+   git clone https://github.com/Pratham-ghadge/Fitness-Website.git
    ```
 
